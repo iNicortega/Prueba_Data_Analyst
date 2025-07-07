@@ -1,0 +1,282 @@
+[
+    {
+        "id_cliente": "C0000",
+        "nombre": "Jason Monroe",
+        "correo": "taylorjohnson@hotmail.com",
+        "empresa": "Moore, Escobar and Aguilar",
+        "industria": "Finanzas",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "recomendación"
+    },
+    {
+        "id_cliente": "C0003",
+        "nombre": "Mr. Jose Phillips",
+        "correo": "valerielane@hotmail.com",
+        "empresa": "Hardin Inc",
+        "industria": "Retail",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "servicio destacado"
+    },
+    {
+        "id_cliente": "C0020",
+        "nombre": "Timothy Harris",
+        "correo": "kyle51@hotmail.com",
+        "empresa": "West-Williamson",
+        "industria": "Retail",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "descuento"
+    },
+    {
+        "id_cliente": "C0027",
+        "nombre": "Tara Hansen",
+        "correo": "raymond97@hotmail.com",
+        "empresa": "Blake Inc",
+        "industria": "Finanzas",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "servicio destacado"
+    },
+    {
+        "id_cliente": "C0030",
+        "nombre": "Robert Stone",
+        "correo": "amberwalker@hotmail.com",
+        "empresa": "Nolan PLC",
+        "industria": "Tecnología",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "producto exclusivo"
+    },
+    {
+        "id_cliente": "C0036",
+        "nombre": "Phillip Browning",
+        "correo": "tlewis@hotmail.com",
+        "empresa": "Cox Ltd",
+        "industria": "Finanzas",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "producto exclusivo"
+    },
+    {
+        "id_cliente": "C0048",
+        "nombre": "Martha Schaefer",
+        "correo": "michael95@hotmail.com",
+        "empresa": "Ruiz, Sanchez and Jones",
+        "industria": "Finanzas",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "producto exclusivo"
+    },
+    {
+        "id_cliente": "C0060",
+        "nombre": "Regina Burton",
+        "correo": "nancywright@hotmail.com",
+        "empresa": "Ponce Inc",
+        "industria": "Retail",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "producto exclusivo"
+    },
+    {
+        "id_cliente": "C0070",
+        "nombre": "Douglas Bruce",
+        "correo": "wongnicole@hotmail.com",
+        "empresa": "Kennedy and Sons",
+        "industria": "Tecnología",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "servicio destacado"
+    },
+    {
+        "id_cliente": "C0074",
+        "nombre": "Ryan Costa",
+        "correo": "vthompson@hotmail.com",
+        "empresa": "Young Group",
+        "industria": "Educación",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "servicio destacado"
+    },
+    {
+        "id_cliente": "C0081",
+        "nombre": "Ms. Heather Gibson",
+        "correo": "mariashelton@hotmail.com",
+        "empresa": "Glover, Hubbard and Jones",
+        "industria": "Retail",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "descuento"
+    },
+    {
+        "id_cliente": "C0082",
+        "nombre": "Melissa Brown",
+        "correo": "anne98@hotmail.com",
+        "empresa": "Garrett-Woods",
+        "industria": "Tecnología",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "descuento"
+    },
+    {
+        "id_cliente": "C0085",
+        "nombre": "Joseph Bennett",
+        "correo": "jennifer14@hotmail.com",
+        "empresa": "Mitchell-Davis",
+        "industria": "Finanzas",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "recomendación"
+    },
+    {
+        "id_cliente": "C0087",
+        "nombre": "Patrick Watkins",
+        "correo": "williamsmith@hotmail.com",
+        "empresa": "Hale PLC",
+        "industria": "Salud",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "precio competitivo"
+    },
+    {
+        "id_cliente": "C0089",
+        "nombre": "Traci Tucker",
+        "correo": "lisa21@hotmail.com",
+        "empresa": "Schroeder, Ramirez and Calderon",
+        "industria": "Finanzas",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "descuento"
+    },
+    {
+        "id_cliente": "C0094",
+        "nombre": "David Ewing",
+        "correo": "jonathanwolf@hotmail.com",
+        "empresa": "Fuller LLC",
+        "industria": "Salud",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "servicio destacado"
+    },
+    {
+        "id_cliente": "C0102",
+        "nombre": "Laura Warren",
+        "correo": "zrichardson@hotmail.com",
+        "empresa": "Boyd, Gutierrez and Hernandez",
+        "industria": "Educación",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "precio competitivo"
+    },
+    {
+        "id_cliente": "C0113",
+        "nombre": "Christopher Perez",
+        "correo": "edwinpowell@hotmail.com",
+        "empresa": "Colon-Goodman",
+        "industria": "Finanzas",
+        "estado": "perdido",
+        "motivo_perdida": "servicio",
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0114",
+        "nombre": "Anthony Pratt",
+        "correo": "karen60@hotmail.com",
+        "empresa": "Love, Campbell and Maddox",
+        "industria": "Finanzas",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "producto exclusivo"
+    },
+    {
+        "id_cliente": "C0119",
+        "nombre": "Kimberly Walters",
+        "correo": "kellymartin@hotmail.com",
+        "empresa": "Smith-Haney",
+        "industria": "Educación",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "precio competitivo"
+    },
+    {
+        "id_cliente": "C0129",
+        "nombre": "Brian Green",
+        "correo": "yjohnson@hotmail.com",
+        "empresa": "Arellano, Middleton and Hampton",
+        "industria": "Finanzas",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "descuento"
+    },
+    {
+        "id_cliente": "C0133",
+        "nombre": "Kelly Thomas",
+        "correo": "johnsonheidi@hotmail.com",
+        "empresa": "Cruz, Mckinney and Scott",
+        "industria": "Finanzas",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "precio competitivo"
+    },
+    {
+        "id_cliente": "C0154",
+        "nombre": "Julie Smith",
+        "correo": "olsonjeffrey@hotmail.com",
+        "empresa": "Martin-Farmer",
+        "industria": "Educación",
+        "estado": "perdido",
+        "motivo_perdida": "competencia",
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0159",
+        "nombre": "Lance Morgan",
+        "correo": "christinapollard@hotmail.com",
+        "empresa": "Cook-Smith",
+        "industria": "Tecnología",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "recomendación"
+    },
+    {
+        "id_cliente": "C0166",
+        "nombre": "Jane Hernandez",
+        "correo": "cassandra17@hotmail.com",
+        "empresa": "Brown-Aguilar",
+        "industria": "Finanzas",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "recomendación"
+    },
+    {
+        "id_cliente": "C0176",
+        "nombre": "Marc Dorsey",
+        "correo": "jameskirk@hotmail.com",
+        "empresa": "Meyers-Young",
+        "industria": "Educación",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "descuento"
+    },
+    {
+        "id_cliente": "C0177",
+        "nombre": "Paul Lee",
+        "correo": "cmontoya@hotmail.com",
+        "empresa": "Smith-Lewis",
+        "industria": "Educación",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "precio competitivo"
+    },
+    {
+        "id_cliente": "C0185",
+        "nombre": "Sara Lopez",
+        "correo": "shawn94@hotmail.com",
+        "empresa": "Jones-Pacheco",
+        "industria": "Salud",
+        "estado": "activo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": "descuento"
+    }
+]

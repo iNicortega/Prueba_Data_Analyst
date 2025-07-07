@@ -1,0 +1,662 @@
+[
+    {
+        "id_cliente": "C0004",
+        "nombre": "Lisa Young",
+        "correo": "ylucas@gmail.com",
+        "empresa": "Grimes-Brown",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0005",
+        "nombre": "Monica Harris",
+        "correo": "bettybright@gmail.com",
+        "empresa": "Lopez, Walker and Rivera",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0006",
+        "nombre": "Carla Robinson",
+        "correo": "petersondeanna@yahoo.com",
+        "empresa": "Henderson-Guzman",
+        "industria": "Finanzas",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0010",
+        "nombre": "David Wright",
+        "correo": "jerryberry@walker-perry.com",
+        "empresa": "Howard, Cruz and Brooks",
+        "industria": "Salud",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0013",
+        "nombre": "Oscar Evans",
+        "correo": "hlara@sandoval-nelson.com",
+        "empresa": "Tate-Ramirez",
+        "industria": "Finanzas",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0014",
+        "nombre": "Michael Gonzalez",
+        "correo": "shelby80@gmail.com",
+        "empresa": "Chen-Rodriguez",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0015",
+        "nombre": "Anthony Baker",
+        "correo": "mprice@yahoo.com",
+        "empresa": "Moses, Shields and Johnson",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0019",
+        "nombre": "Daryl Castro",
+        "correo": "nancycase@yahoo.com",
+        "empresa": "Reyes, Warner and Baker",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0021",
+        "nombre": "Elizabeth Middleton",
+        "correo": "gary68@hughes-moore.com",
+        "empresa": "Ali Inc",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0022",
+        "nombre": "Michael Pham",
+        "correo": "hickmanstephen@lee.biz",
+        "empresa": "Walton-Carroll",
+        "industria": "Salud",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0026",
+        "nombre": "Ethan Holmes",
+        "correo": "alan91@yahoo.com",
+        "empresa": "Moore-Hooper",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0029",
+        "nombre": "Isabel Olson",
+        "correo": "coreyallen@hotmail.com",
+        "empresa": "Peters, Simpson and Shields",
+        "industria": "Salud",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0031",
+        "nombre": "Joseph Salinas",
+        "correo": "bmiller@yahoo.com",
+        "empresa": "Miller, Barnes and White",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0032",
+        "nombre": "Kimberly Colon",
+        "correo": "morrisalexander@tapia-byrd.com",
+        "empresa": "Edwards-Reed",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0037",
+        "nombre": "Melissa Weber",
+        "correo": "davidsonmichael@randall.info",
+        "empresa": "Brown, Meza and Miller",
+        "industria": "Salud",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0040",
+        "nombre": "Vanessa Bennett",
+        "correo": "sanchezcourtney@jacobs.biz",
+        "empresa": "Lopez, Sheppard and Escobar",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0042",
+        "nombre": "Andrew Byrd",
+        "correo": "rhodesjoshua@hotmail.com",
+        "empresa": "Brewer, Stark and Ashley",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0044",
+        "nombre": "Ronald Holmes",
+        "correo": "jessicaaguilar@johnson.info",
+        "empresa": "Mcgee PLC",
+        "industria": "Salud",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0049",
+        "nombre": "Mark Archer",
+        "correo": "hudsondavid@cortez-shelton.biz",
+        "empresa": "Singh-Phillips",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0056",
+        "nombre": "Crystal Higgins",
+        "correo": "rachelsmith@smith-zimmerman.info",
+        "empresa": "Scott-Meyer",
+        "industria": "Finanzas",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0057",
+        "nombre": "John Coleman",
+        "correo": "rachelserrano@gmail.com",
+        "empresa": "Coleman, Anderson and White",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0058",
+        "nombre": "Michele Lang",
+        "correo": "pattonjohn@yahoo.com",
+        "empresa": "Livingston Inc",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0061",
+        "nombre": "Elizabeth Walter",
+        "correo": "wesley20@matthews-phillips.info",
+        "empresa": "Liu-Bell",
+        "industria": "Finanzas",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0064",
+        "nombre": "Jason Richard",
+        "correo": "robertpeters@hotmail.com",
+        "empresa": "Lewis, Wolfe and Kemp",
+        "industria": "Salud",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0066",
+        "nombre": "Charles Davis",
+        "correo": "malonelauren@yahoo.com",
+        "empresa": "Cummings PLC",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0068",
+        "nombre": "Mary Zimmerman",
+        "correo": "gomezgregory@barrera-olsen.org",
+        "empresa": "Parker, Chung and Black",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0071",
+        "nombre": "Michelle Griffith",
+        "correo": "bramirez@henson.org",
+        "empresa": "Lindsey-Gonzales",
+        "industria": "Finanzas",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0072",
+        "nombre": "Julie Davis",
+        "correo": "marcia45@gmail.com",
+        "empresa": "Gonzales and Sons",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0077",
+        "nombre": "James Barton",
+        "correo": "howardchristine@hopkins.com",
+        "empresa": "Reed, Brooks and Benjamin",
+        "industria": "Salud",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0079",
+        "nombre": "Julia Campbell",
+        "correo": "william25@gmail.com",
+        "empresa": "Johnson, Serrano and Horton",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0083",
+        "nombre": "Michelle Johnson",
+        "correo": "barbara17@hanna-sweeney.com",
+        "empresa": "Moreno-Hernandez",
+        "industria": "Finanzas",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0090",
+        "nombre": "Brian Moreno",
+        "correo": "ybrown@castro.com",
+        "empresa": "Gray and Sons",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0098",
+        "nombre": "Sheila Williams",
+        "correo": "kaitlyn73@lloyd.com",
+        "empresa": "Smith LLC",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0099",
+        "nombre": "Jon Zuniga",
+        "correo": "gailgonzalez@owens-wade.net",
+        "empresa": "Park and Sons",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0100",
+        "nombre": "Christine Moreno",
+        "correo": "ashields@gmail.com",
+        "empresa": "Price, Lynch and Gonzales",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0105",
+        "nombre": "Daniel Baker",
+        "correo": "hrose@gmail.com",
+        "empresa": "Vega, Roman and Castro",
+        "industria": "Salud",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0108",
+        "nombre": "Brandy Joyce",
+        "correo": "nelsonjacob@yahoo.com",
+        "empresa": "Mann, Levy and Carlson",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0109",
+        "nombre": "Debbie Green",
+        "correo": "veronicalee@morales.net",
+        "empresa": "Reed PLC",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0110",
+        "nombre": "Alex Velazquez",
+        "correo": "hicksmelanie@shea.com",
+        "empresa": "Boyle, Cole and Green",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0111",
+        "nombre": "Anna Arnold",
+        "correo": "joseph66@ross.com",
+        "empresa": "Rasmussen, Cook and Nelson",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0117",
+        "nombre": "William Watts",
+        "correo": "linda97@hotmail.com",
+        "empresa": "Rhodes, Dickerson and Henry",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0123",
+        "nombre": "Mr. Shawn Huber",
+        "correo": "stephaniesanchez@gmail.com",
+        "empresa": "Butler LLC",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0124",
+        "nombre": "Brian Pineda",
+        "correo": "sarahwilliams@hotmail.com",
+        "empresa": "Conrad, Chen and Hodges",
+        "industria": "Salud",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0128",
+        "nombre": "Chad Nelson",
+        "correo": "reedkimberly@peters.net",
+        "empresa": "Vasquez, Harrison and Mcneil",
+        "industria": "Finanzas",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0131",
+        "nombre": "Patricia Moore",
+        "correo": "ronald78@yahoo.com",
+        "empresa": "Soto and Sons",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0132",
+        "nombre": "James Russell",
+        "correo": "mcintyretheresa@johnson.biz",
+        "empresa": "Rodriguez LLC",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0141",
+        "nombre": "Tabitha Odonnell",
+        "correo": "shelby20@gmail.com",
+        "empresa": "Martinez, Ellis and King",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0144",
+        "nombre": "Danielle Patterson",
+        "correo": "jacquelineoliver@yahoo.com",
+        "empresa": "Roberts PLC",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0145",
+        "nombre": "Lisa Thomas",
+        "correo": "vford@yahoo.com",
+        "empresa": "Freeman-May",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0148",
+        "nombre": "Johnny Wood",
+        "correo": "bking@yahoo.com",
+        "empresa": "Alexander, Vasquez and Watkins",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0149",
+        "nombre": "Paul Williams",
+        "correo": "dillonstein@gmail.com",
+        "empresa": "Rosario, Cooke and Decker",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0151",
+        "nombre": "John White",
+        "correo": "jonathanreynolds@hotmail.com",
+        "empresa": "Robinson, Jordan and Moss",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0152",
+        "nombre": "Kyle Vargas",
+        "correo": "ronaldpaul@dyer.info",
+        "empresa": "Kim, Berry and Rose",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0155",
+        "nombre": "Scott Jones",
+        "correo": "peter16@hotmail.com",
+        "empresa": "Sandoval, King and Carter",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0158",
+        "nombre": "James Moon",
+        "correo": "christopherturner@ross.org",
+        "empresa": "Beck-Jones",
+        "industria": "Finanzas",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0164",
+        "nombre": "Christopher Bryant",
+        "correo": "edward08@gmail.com",
+        "empresa": "Poole Ltd",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0167",
+        "nombre": "Samuel Martin",
+        "correo": "xwilson@garcia.com",
+        "empresa": "Hester-Smith",
+        "industria": "Salud",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0168",
+        "nombre": "Sara Hayden",
+        "correo": "andrewgonzales@yahoo.com",
+        "empresa": "Sanders Inc",
+        "industria": "Finanzas",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0171",
+        "nombre": "Paul Mcdonald",
+        "correo": "edwardskelly@gmail.com",
+        "empresa": "Rogers LLC",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0173",
+        "nombre": "Susan Arellano",
+        "correo": "stephen45@jenkins-richards.com",
+        "empresa": "Jennings, Garcia and Bell",
+        "industria": "Educación",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0175",
+        "nombre": "Heather Robertson",
+        "correo": "rbooker@johns.com",
+        "empresa": "Myers-Wallace",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0179",
+        "nombre": "Kenneth Medina",
+        "correo": "michael13@yahoo.com",
+        "empresa": "Robertson Inc",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0181",
+        "nombre": "Stephen Morgan",
+        "correo": "kayleeanderson@yahoo.com",
+        "empresa": "Chan PLC",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0184",
+        "nombre": "Kenneth Kelly",
+        "correo": "aflowers@yahoo.com",
+        "empresa": "Wise Inc",
+        "industria": "Tecnología",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0189",
+        "nombre": "Dustin Kelly",
+        "correo": "yelliott@yahoo.com",
+        "empresa": "Alexander Group",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    },
+    {
+        "id_cliente": "C0190",
+        "nombre": "Megan Alvarado",
+        "correo": "levyjacob@thomas.info",
+        "empresa": "English-Williams",
+        "industria": "Retail",
+        "estado": "nuevo",
+        "motivo_perdida": NaN,
+        "motivo_ganancia": NaN
+    }
+]

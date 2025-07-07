@@ -1,0 +1,201 @@
+id_cliente,nombre,correo,empresa,industria,estado,motivo_perdida,motivo_ganancia
+C0000,Jason Monroe,taylorjohnson@hotmail.com,"Moore, Escobar and Aguilar",Finanzas,activo,,recomendación
+C0001,Raymond Walker,michael87@shepherd.net,"Perry, Dixon and Johnson",Finanzas,perdido,precio,
+C0002,Steven Ellis,melissastephens@gmail.com,White LLC,Tecnología,activo,,producto exclusivo
+C0003,Mr. Jose Phillips,valerielane@hotmail.com,Hardin Inc,Retail,activo,,servicio destacado
+C0004,Lisa Young,ylucas@gmail.com,Grimes-Brown,Retail,nuevo,,
+C0005,Monica Harris,bettybright@gmail.com,"Lopez, Walker and Rivera",Retail,nuevo,,
+C0006,Carla Robinson,petersondeanna@yahoo.com,Henderson-Guzman,Finanzas,nuevo,,
+C0007,Sherry Bishop,thomassharon@gmail.com,"Miller, Wilson and Hunt",Educación,perdido,precio,
+C0008,Tina Myers,amanda00@lopez.com,Cooper-Koch,Finanzas,activo,,precio competitivo
+C0009,Mark Harris,michaelcarroll@yahoo.com,Harris and Sons,Educación,activo,,producto exclusivo
+C0010,David Wright,jerryberry@walker-perry.com,"Howard, Cruz and Brooks",Salud,nuevo,,
+C0011,Lindsey Rodriguez,browncasey@young.info,"Lopez, Simmons and Sanchez",Finanzas,perdido,servicio,
+C0012,Terry Norris,hernandezsally@yahoo.com,"Ramirez, Garcia and Harmon",Finanzas,perdido,precio,
+C0013,Oscar Evans,hlara@sandoval-nelson.com,Tate-Ramirez,Finanzas,nuevo,,
+C0014,Michael Gonzalez,shelby80@gmail.com,Chen-Rodriguez,Retail,nuevo,,
+C0015,Anthony Baker,mprice@yahoo.com,"Moses, Shields and Johnson",Retail,nuevo,,
+C0016,Steven Manning,aaron58@wilson.info,"Gardner, Owen and Thomas",Educación,activo,,descuento
+C0017,Cheryl King,julie33@cuevas.com,Allen-Green,Educación,activo,,precio competitivo
+C0018,Andrew King,elizabeth04@yahoo.com,Duran-Franco,Finanzas,activo,,precio competitivo
+C0019,Daryl Castro,nancycase@yahoo.com,"Reyes, Warner and Baker",Educación,nuevo,,
+C0020,Timothy Harris,kyle51@hotmail.com,West-Williamson,Retail,activo,,descuento
+C0021,Elizabeth Middleton,gary68@hughes-moore.com,Ali Inc,Educación,nuevo,,
+C0022,Michael Pham,hickmanstephen@lee.biz,Walton-Carroll,Salud,nuevo,,
+C0023,Brittany Walters,ybrown@fox.com,"Holt, Bell and Dunlap",Retail,activo,,precio competitivo
+C0024,Tammy Tanner,stevensondavid@yahoo.com,Bartlett PLC,Salud,activo,,precio competitivo
+C0025,William Campbell,floresdevon@gmail.com,Scott Ltd,Educación,activo,,servicio destacado
+C0026,Ethan Holmes,alan91@yahoo.com,Moore-Hooper,Tecnología,nuevo,,
+C0027,Tara Hansen,raymond97@hotmail.com,Blake Inc,Finanzas,activo,,servicio destacado
+C0028,Andrew Rivera,christopher91@oconnor-miranda.net,"Escobar, Robinson and Nunez",Retail,activo,,producto exclusivo
+C0029,Isabel Olson,coreyallen@hotmail.com,"Peters, Simpson and Shields",Salud,nuevo,,
+C0030,Robert Stone,amberwalker@hotmail.com,Nolan PLC,Tecnología,activo,,producto exclusivo
+C0031,Joseph Salinas,bmiller@yahoo.com,"Miller, Barnes and White",Tecnología,nuevo,,
+C0032,Kimberly Colon,morrisalexander@tapia-byrd.com,Edwards-Reed,Retail,nuevo,,
+C0033,Mike Reyes,moranryan@hughes-mcdowell.com,"Elliott, Powers and Gordon",Retail,perdido,precio,
+C0034,Sandra Obrien,xpetersen@yahoo.com,Owens PLC,Tecnología,perdido,competencia,
+C0035,David Gonzalez,campbellmichelle@gmail.com,Brown PLC,Finanzas,perdido,precio,
+C0036,Phillip Browning,tlewis@hotmail.com,Cox Ltd,Finanzas,activo,,producto exclusivo
+C0037,Melissa Weber,davidsonmichael@randall.info,"Brown, Meza and Miller",Salud,nuevo,,
+C0038,Rebecca Mckay,paulbrown@yahoo.com,Dean-Ryan,Finanzas,activo,,servicio destacado
+C0039,Jillian Gallagher,edgar61@smith.com,"Cole, Chambers and Baker",Tecnología,activo,,producto exclusivo
+C0040,Vanessa Bennett,sanchezcourtney@jacobs.biz,"Lopez, Sheppard and Escobar",Tecnología,nuevo,,
+C0041,Anthony Peterson,ewalker@ramirez-king.biz,Bell-Smith,Educación,activo,,precio competitivo
+C0042,Andrew Byrd,rhodesjoshua@hotmail.com,"Brewer, Stark and Ashley",Tecnología,nuevo,,
+C0043,Christine Berry,wrightnorma@yahoo.com,Powers Ltd,Finanzas,perdido,otro,
+C0044,Ronald Holmes,jessicaaguilar@johnson.info,Mcgee PLC,Salud,nuevo,,
+C0045,Curtis Jarvis,scottjohnson@perry-becker.com,Lewis-Craig,Educación,activo,,servicio destacado
+C0046,Alexander Cummings,bgreene@gmail.com,Jackson Group,Finanzas,activo,,producto exclusivo
+C0047,Barry Guzman,kroberts@key.org,Rodriguez Inc,Salud,activo,,precio competitivo
+C0048,Martha Schaefer,michael95@hotmail.com,"Ruiz, Sanchez and Jones",Finanzas,activo,,producto exclusivo
+C0049,Mark Archer,hudsondavid@cortez-shelton.biz,Singh-Phillips,Educación,nuevo,,
+C0050,Melody Moreno,nguyenlouis@gmail.com,"Nguyen, Sanchez and Waters",Tecnología,perdido,servicio,
+C0051,Haley Butler,josewyatt@thomas-york.info,Bender Ltd,Educación,activo,,recomendación
+C0052,Pamela Hudson,hwalker@garcia.biz,Hawkins-Mayer,Tecnología,perdido,competencia,
+C0053,Timothy Day,kmarshall@gmail.com,Martin LLC,Educación,perdido,sin contacto,
+C0054,Steven Weber,eric31@haney.biz,Wilson Ltd,Retail,activo,,producto exclusivo
+C0055,Stacey Hodges,eric06@bruce-smith.com,Spencer-Glenn,Finanzas,perdido,servicio,
+C0056,Crystal Higgins,rachelsmith@smith-zimmerman.info,Scott-Meyer,Finanzas,nuevo,,
+C0057,John Coleman,rachelserrano@gmail.com,"Coleman, Anderson and White",Retail,nuevo,,
+C0058,Michele Lang,pattonjohn@yahoo.com,Livingston Inc,Tecnología,nuevo,,
+C0059,Peggy Villa,xchen@yahoo.com,Salazar-Mays,Finanzas,activo,,recomendación
+C0060,Regina Burton,nancywright@hotmail.com,Ponce Inc,Retail,activo,,producto exclusivo
+C0061,Elizabeth Walter,wesley20@matthews-phillips.info,Liu-Bell,Finanzas,nuevo,,
+C0062,Matthew Blair,emmahill@perry.biz,"Miller, Houston and Hendricks",Salud,perdido,otro,
+C0063,Bruce Fisher,amanda24@steele.com,Ellis-Booth,Tecnología,activo,,descuento
+C0064,Jason Richard,robertpeters@hotmail.com,"Lewis, Wolfe and Kemp",Salud,nuevo,,
+C0065,Mitchell Glenn,taylormiguel@smith.biz,"Harris, Lee and Palmer",Tecnología,activo,,producto exclusivo
+C0066,Charles Davis,malonelauren@yahoo.com,Cummings PLC,Retail,nuevo,,
+C0067,Derrick Cooley,idiaz@gmail.com,"Sawyer, Gray and Jones",Tecnología,perdido,servicio,
+C0068,Mary Zimmerman,gomezgregory@barrera-olsen.org,"Parker, Chung and Black",Tecnología,nuevo,,
+C0069,Paul Davis,karensmith@weaver.com,"Scott, Brooks and Fox",Retail,perdido,otro,
+C0070,Douglas Bruce,wongnicole@hotmail.com,Kennedy and Sons,Tecnología,activo,,servicio destacado
+C0071,Michelle Griffith,bramirez@henson.org,Lindsey-Gonzales,Finanzas,nuevo,,
+C0072,Julie Davis,marcia45@gmail.com,Gonzales and Sons,Educación,nuevo,,
+C0073,Gabriella Clayton,tonymclean@elliott.com,"Bailey, Garcia and Peterson",Retail,perdido,otro,
+C0074,Ryan Costa,vthompson@hotmail.com,Young Group,Educación,activo,,servicio destacado
+C0075,Paul Smith,ashea@duarte-gordon.biz,Johnson LLC,Retail,activo,,recomendación
+C0076,Joseph Graham,wilcoxmichael@fuentes.com,Rice and Sons,Retail,activo,,servicio destacado
+C0077,James Barton,howardchristine@hopkins.com,"Reed, Brooks and Benjamin",Salud,nuevo,,
+C0078,Stacy Roberts,ncooper@gmail.com,Evans and Sons,Salud,activo,,precio competitivo
+C0079,Julia Campbell,william25@gmail.com,"Johnson, Serrano and Horton",Tecnología,nuevo,,
+C0080,Megan Friedman,glendajohnson@horton-sandoval.com,Fernandez-Flores,Educación,perdido,sin contacto,
+C0081,Ms. Heather Gibson,mariashelton@hotmail.com,"Glover, Hubbard and Jones",Retail,activo,,descuento
+C0082,Melissa Brown,anne98@hotmail.com,Garrett-Woods,Tecnología,activo,,descuento
+C0083,Michelle Johnson,barbara17@hanna-sweeney.com,Moreno-Hernandez,Finanzas,nuevo,,
+C0084,Barbara Turner,jfreeman@fitzgerald.com,Roman-Brown,Retail,activo,,precio competitivo
+C0085,Joseph Bennett,jennifer14@hotmail.com,Mitchell-Davis,Finanzas,activo,,recomendación
+C0086,David Scott,knoxlauren@bush.net,"Ford, Cook and Freeman",Tecnología,activo,,precio competitivo
+C0087,Patrick Watkins,williamsmith@hotmail.com,Hale PLC,Salud,activo,,precio competitivo
+C0088,Jason Santiago,ronald37@yahoo.com,"Neal, Blackburn and Rogers",Tecnología,perdido,servicio,
+C0089,Traci Tucker,lisa21@hotmail.com,"Schroeder, Ramirez and Calderon",Finanzas,activo,,descuento
+C0090,Brian Moreno,ybrown@castro.com,Gray and Sons,Retail,nuevo,,
+C0091,Bradley Malone,wbarker@vega.com,Jones LLC,Educación,activo,,producto exclusivo
+C0092,Brittany Wilson,seanjohnson@oconnor.biz,Houston Inc,Tecnología,activo,,descuento
+C0093,Kelli Watson,colonrobert@garrison.net,Taylor Ltd,Retail,activo,,descuento
+C0094,David Ewing,jonathanwolf@hotmail.com,Fuller LLC,Salud,activo,,servicio destacado
+C0095,Bill Campbell,steven75@yahoo.com,"Yang, Roberts and Gillespie",Salud,activo,,precio competitivo
+C0096,Cheryl Young,hammondjulie@graves.com,"Juarez, Brady and Hale",Salud,activo,,descuento
+C0097,Dave Jenkins,carlsonmeredith@mooney.biz,Webster-Orozco,Retail,activo,,precio competitivo
+C0098,Sheila Williams,kaitlyn73@lloyd.com,Smith LLC,Tecnología,nuevo,,
+C0099,Jon Zuniga,gailgonzalez@owens-wade.net,Park and Sons,Retail,nuevo,,
+C0100,Christine Moreno,ashields@gmail.com,"Price, Lynch and Gonzales",Retail,nuevo,,
+C0101,Scott Clark,bryantlaura@gmail.com,Cooper-Nguyen,Educación,activo,,servicio destacado
+C0102,Laura Warren,zrichardson@hotmail.com,"Boyd, Gutierrez and Hernandez",Educación,activo,,precio competitivo
+C0103,Anna Smith,pagejonathan@moreno-gonzalez.com,"Harris, Jackson and Ortiz",Tecnología,activo,,descuento
+C0104,Connor Ferrell,qwilliams@wilson.info,Walker-Myers,Educación,perdido,sin contacto,
+C0105,Daniel Baker,hrose@gmail.com,"Vega, Roman and Castro",Salud,nuevo,,
+C0106,Frederick Evans,danielrobinson@cook.com,Brooks LLC,Educación,activo,,precio competitivo
+C0107,Bryan Hammond,thenderson@rojas.com,"Williams, Johnson and Page",Salud,activo,,servicio destacado
+C0108,Brandy Joyce,nelsonjacob@yahoo.com,"Mann, Levy and Carlson",Tecnología,nuevo,,
+C0109,Debbie Green,veronicalee@morales.net,Reed PLC,Retail,nuevo,,
+C0110,Alex Velazquez,hicksmelanie@shea.com,"Boyle, Cole and Green",Retail,nuevo,,
+C0111,Anna Arnold,joseph66@ross.com,"Rasmussen, Cook and Nelson",Educación,nuevo,,
+C0112,Madison Calderon,michaelglover@maldonado-myers.net,Perez-Wilson,Salud,perdido,sin contacto,
+C0113,Christopher Perez,edwinpowell@hotmail.com,Colon-Goodman,Finanzas,perdido,servicio,
+C0114,Anthony Pratt,karen60@hotmail.com,"Love, Campbell and Maddox",Finanzas,activo,,producto exclusivo
+C0115,Christine Hill,michaelrogers@mendez.net,Lopez-Hill,Finanzas,perdido,precio,
+C0116,Shane Santana,justin46@bentley-willis.com,"Koch, Holmes and Ward",Retail,perdido,precio,
+C0117,William Watts,linda97@hotmail.com,"Rhodes, Dickerson and Henry",Retail,nuevo,,
+C0118,Jessica Jones,xbass@coleman.com,"Hernandez, Calhoun and Vasquez",Salud,perdido,sin contacto,
+C0119,Kimberly Walters,kellymartin@hotmail.com,Smith-Haney,Educación,activo,,precio competitivo
+C0120,Brett Donovan,davidprice@hoover.biz,"Griffin, Gonzales and Dawson",Finanzas,perdido,competencia,
+C0121,Ruth Smith,heather48@martinez.com,George and Sons,Salud,perdido,sin contacto,
+C0122,Dr. Nicholas Wilson,floresbrittany@gmail.com,Gray and Sons,Salud,activo,,descuento
+C0123,Mr. Shawn Huber,stephaniesanchez@gmail.com,Butler LLC,Educación,nuevo,,
+C0124,Brian Pineda,sarahwilliams@hotmail.com,"Conrad, Chen and Hodges",Salud,nuevo,,
+C0125,Jeremy Moore,lauren53@gmail.com,Smith-Perez,Educación,activo,,servicio destacado
+C0126,Alfred Morris,mariawarren@acosta-arnold.com,Soto LLC,Tecnología,perdido,sin contacto,
+C0127,Michael Ayala,timothysullivan@yahoo.com,Moody and Sons,Educación,perdido,sin contacto,
+C0128,Chad Nelson,reedkimberly@peters.net,"Vasquez, Harrison and Mcneil",Finanzas,nuevo,,
+C0129,Brian Green,yjohnson@hotmail.com,"Arellano, Middleton and Hampton",Finanzas,activo,,descuento
+C0130,John Carter,ginahoward@hudson-larson.com,Johnston PLC,Educación,activo,,descuento
+C0131,Patricia Moore,ronald78@yahoo.com,Soto and Sons,Tecnología,nuevo,,
+C0132,James Russell,mcintyretheresa@johnson.biz,Rodriguez LLC,Tecnología,nuevo,,
+C0133,Kelly Thomas,johnsonheidi@hotmail.com,"Cruz, Mckinney and Scott",Finanzas,activo,,precio competitivo
+C0134,Brooke Ellis,jennifergray@gmail.com,Stone-Ellis,Tecnología,perdido,precio,
+C0135,Christopher Brown,vstevens@ramos.com,Brown Group,Salud,activo,,descuento
+C0136,Isabel Brown,vcook@gmail.com,Mahoney-Lee,Retail,activo,,precio competitivo
+C0137,Gregory Whitehead,ian02@thomas.org,"Harper, Vasquez and Parker",Salud,activo,,producto exclusivo
+C0138,Kimberly Fowler,amber13@estrada.com,"Schmidt, Todd and Pittman",Finanzas,activo,,descuento
+C0139,Dana Rogers,michelle85@yahoo.com,Roberts Group,Tecnología,perdido,precio,
+C0140,Joshua Berg,morrisricardo@king-hammond.com,Barber Ltd,Educación,perdido,precio,
+C0141,Tabitha Odonnell,shelby20@gmail.com,"Martinez, Ellis and King",Retail,nuevo,,
+C0142,Patricia Evans,whitesteve@coleman.org,Jordan Ltd,Educación,activo,,descuento
+C0143,Jeremy Perry,pattersonlindsey@gmail.com,"Hubbard, Kennedy and Sullivan",Finanzas,activo,,descuento
+C0144,Danielle Patterson,jacquelineoliver@yahoo.com,Roberts PLC,Tecnología,nuevo,,
+C0145,Lisa Thomas,vford@yahoo.com,Freeman-May,Educación,nuevo,,
+C0146,Steven Griffith,annegutierrez@vaughn-mullins.com,"Saunders, Brown and Berry",Educación,activo,,recomendación
+C0147,Dustin Henderson,lisasmith@gmail.com,Kirby-Lowe,Retail,activo,,recomendación
+C0148,Johnny Wood,bking@yahoo.com,"Alexander, Vasquez and Watkins",Retail,nuevo,,
+C0149,Paul Williams,dillonstein@gmail.com,"Rosario, Cooke and Decker",Tecnología,nuevo,,
+C0150,Steve Smith,sherring@mcdaniel-bell.com,"Floyd, Spence and Burch",Retail,perdido,sin contacto,
+C0151,John White,jonathanreynolds@hotmail.com,"Robinson, Jordan and Moss",Educación,nuevo,,
+C0152,Kyle Vargas,ronaldpaul@dyer.info,"Kim, Berry and Rose",Educación,nuevo,,
+C0153,Rebecca Garrett,sara79@gmail.com,"Franklin, Williams and Williams",Finanzas,activo,,servicio destacado
+C0154,Julie Smith,olsonjeffrey@hotmail.com,Martin-Farmer,Educación,perdido,competencia,
+C0155,Scott Jones,peter16@hotmail.com,"Sandoval, King and Carter",Tecnología,nuevo,,
+C0156,Charles Abbott,vvalenzuela@ortega.net,"Park, Williams and Guerrero",Salud,activo,,recomendación
+C0157,Patricia Schneider,melissa31@yahoo.com,Young Ltd,Finanzas,activo,,servicio destacado
+C0158,James Moon,christopherturner@ross.org,Beck-Jones,Finanzas,nuevo,,
+C0159,Lance Morgan,christinapollard@hotmail.com,Cook-Smith,Tecnología,activo,,recomendación
+C0160,Tyler Vega,kristin58@guerra.com,Jones Group,Tecnología,activo,,producto exclusivo
+C0161,Adam Wright,stephen55@yahoo.com,Hunter-Martinez,Retail,activo,,servicio destacado
+C0162,Andrew Wolf,bfisher@yahoo.com,Fernandez-Holt,Finanzas,activo,,recomendación
+C0163,Brian Carlson,browndebra@clark-price.com,"Ryan, White and Ryan",Retail,activo,,producto exclusivo
+C0164,Christopher Bryant,edward08@gmail.com,Poole Ltd,Educación,nuevo,,
+C0165,William Colon,ernestle@walker-hernandez.com,Marshall-Taylor,Finanzas,perdido,precio,
+C0166,Jane Hernandez,cassandra17@hotmail.com,Brown-Aguilar,Finanzas,activo,,recomendación
+C0167,Samuel Martin,xwilson@garcia.com,Hester-Smith,Salud,nuevo,,
+C0168,Sara Hayden,andrewgonzales@yahoo.com,Sanders Inc,Finanzas,nuevo,,
+C0169,Johnny Ellis,jonathan72@mcguire.com,Ellis-Rodriguez,Educación,activo,,precio competitivo
+C0170,Lacey Terrell,walkermary@tucker-moreno.com,Johnson-Warren,Retail,activo,,precio competitivo
+C0171,Paul Mcdonald,edwardskelly@gmail.com,Rogers LLC,Retail,nuevo,,
+C0172,Andrew Farmer,carolyn07@ortiz.com,Roberts and Sons,Salud,activo,,producto exclusivo
+C0173,Susan Arellano,stephen45@jenkins-richards.com,"Jennings, Garcia and Bell",Educación,nuevo,,
+C0174,Bryan Blake,ttorres@yahoo.com,Reynolds PLC,Retail,activo,,descuento
+C0175,Heather Robertson,rbooker@johns.com,Myers-Wallace,Tecnología,nuevo,,
+C0176,Marc Dorsey,jameskirk@hotmail.com,Meyers-Young,Educación,activo,,descuento
+C0177,Paul Lee,cmontoya@hotmail.com,Smith-Lewis,Educación,activo,,precio competitivo
+C0178,Jerry Graham,ochoajustin@smith.com,"Ford, Smith and Roberts",Salud,perdido,servicio,
+C0179,Kenneth Medina,michael13@yahoo.com,Robertson Inc,Retail,nuevo,,
+C0180,Gabriel Martin,mary68@gmail.com,Hernandez LLC,Educación,activo,,precio competitivo
+C0181,Stephen Morgan,kayleeanderson@yahoo.com,Chan PLC,Retail,nuevo,,
+C0182,Gregory Chavez,mmitchell@meyers-brown.com,Harris-Cisneros,Tecnología,perdido,servicio,
+C0183,Taylor Adkins,justinedwards@paul.com,Schmidt Inc,Salud,perdido,servicio,
+C0184,Kenneth Kelly,aflowers@yahoo.com,Wise Inc,Tecnología,nuevo,,
+C0185,Sara Lopez,shawn94@hotmail.com,Jones-Pacheco,Salud,activo,,descuento
+C0186,Michael Hughes,xortiz@martinez.com,Joyce Ltd,Educación,perdido,otro,
+C0187,Jasmine Hayes,hwatson@day-walker.info,Morgan LLC,Salud,activo,,servicio destacado
+C0188,Marisa Nguyen,brian45@ortiz-flores.com,Powers-Briggs,Finanzas,activo,,descuento
+C0189,Dustin Kelly,yelliott@yahoo.com,Alexander Group,Retail,nuevo,,
+C0190,Megan Alvarado,levyjacob@thomas.info,English-Williams,Retail,nuevo,,
+C0191,Erin Fuller,patriciamorrison@lara-robinson.com,Grimes LLC,Finanzas,perdido,sin contacto,
+C0192,John Baker,shannon28@bennett-dixon.org,Moore-Freeman,Tecnología,perdido,servicio,
+C0193,Dr. Kimberly Guzman,anthonymiranda@willis-fowler.info,"Scott, Chambers and Montoya",Finanzas,activo,,recomendación
+C0194,Christopher Schneider,lisasmith@porter.com,Miller-James,Educación,activo,,servicio destacado
+C0195,David Campos,iflores@banks.com,Williams-Lewis,Educación,activo,,recomendación
+C0196,Lisa Kennedy,jacksonbrittany@richardson-george.com,Osborne-Smith,Retail,activo,,precio competitivo
+C0197,Kelsey Christensen,greyes@lowe.com,Gordon and Sons,Educación,perdido,sin contacto,
+C0198,Alyssa Wilson,hebertmatthew@mccormick.com,Dickerson PLC,Retail,perdido,servicio,
+C0199,Emily Green,mitchell04@ramirez.info,"Carter, Baker and Wagner",Finanzas,activo,,servicio destacado
